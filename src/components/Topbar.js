@@ -3,7 +3,7 @@ import React, { Component } from 'react'
 export default class Topbar extends Component {
     render() {
         return ( 
-            <div className="topBar my-3">
+            <div className="topBar my-1">
                 <div className="centered"> 
                     <i class="material-icons">email</i>
                         <span>
